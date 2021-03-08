@@ -1,0 +1,15 @@
+os-sys
+db-sqlite3
+future
+flask
+Flask
+indeed
+python3-linkedin
+bs4
+urllib3
+re2
+python-time
+unicodedata2
+python-csv
+HTMLParser
+lxml
